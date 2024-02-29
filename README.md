@@ -1,9 +1,12 @@
-# Bem-vindo ao meu perfil
+# Bem-vindo ao meu perfil, sou a Julia Barros! ⍢
 
-### Atualmente curso Desenvolvimento de Sistemas 
+### Atualmente curso Desenvolvimento de Sistemas, e pretendo um dia ser cientista da computação.
 
+Gosto de ouvir música alto, criar cénarios falsos(muitas vezes de lutas épicas), ficar na escola(laboratório) e ficar com meu namorado.😎✨
 
 # EXPERIÊNCIAS...
+
+Em busca de novas experiências
 
 <table border="2">
 
@@ -43,14 +46,18 @@
   
 # HOBBIES...
 
-➤
+➤ Ouvir música;  <br>
+➤ Não ter nada fazer; <br>
+➤ Fazer musse de maracujá; <br>
+➤ Cuidar de quem eu amo; <br>
+➤ Jogar. <br>
 
 # STATUS E REDES SOCIAIS... 
 
 <br>
 
 <div style="display:inline_block">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=" _blank"></a>
+  <a href="https://www.instagram.com/_ahjuycy?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=" _blank"></a>
   <a href="mailto:"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
